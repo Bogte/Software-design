@@ -1,0 +1,3 @@
+[ERROR] [07.01.2025. 23:33] [Izaberite projekat za cuvanje]
+[ERROR] [07.01.2025. 23:33] [No project selected.]
+[ERROR] [07.01.2025. 23:35] [Izaberite projekat za cuvanje]
